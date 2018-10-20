@@ -1,2 +1,2 @@
 # hello-world
-just another repository, it's helloworld in python 3.7.0
+just another repository, it's helloworld in php 
